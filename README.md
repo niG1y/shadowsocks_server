@@ -1,2 +1,2 @@
 # shadowsocks_server
-Shadowsocks autocreate server
+Shadowsocks autocreate server script
